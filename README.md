@@ -2,6 +2,10 @@
 
 ## About The Team 
 ![image](https://github.com/user-attachments/assets/74d9d8d6-7525-445a-97f9-f736fab34dc5)
+![image](https://github.com/user-attachments/assets/789bd3a4-4678-4a04-a8d5-39d3385be1b5)
+![image](https://github.com/user-attachments/assets/9e97bc0c-cffe-4876-b3d3-ab8ba10e04a7)
+
+
 
 ## Overview
 
