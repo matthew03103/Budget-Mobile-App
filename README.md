@@ -6,7 +6,7 @@
 ---
 ![image](https://github.com/user-attachments/assets/001d6f39-82e7-4733-bd67-513ce636857a)
 <br>
-[Email]<jwats164@students.kennesaw.edu>
+[Email](jwats164@students.kennesaw.edu)
 ### Alexus Glass
 ---
 ![image](https://github.com/user-attachments/assets/e819eba0-e495-422b-852e-57fd459b9b1e)
