@@ -5,10 +5,10 @@
 ### Joshua Watson  
 ---
 ![image](https://github.com/user-attachments/assets/001d6f39-82e7-4733-bd67-513ce636857a)
-<br>
-* <jwats164@students.kennesaw.edu>
-<br>
-* [LinkedIn](https://www.linkedin.com/in/joshua-watson-b32b4b237)
+<be>
+<jwats164@students.kennesaw.edu>
+<be>
+[LinkedIn](https://www.linkedin.com/in/joshua-watson-b32b4b237)
 ### Alexus Glass
 ---
 ![image](https://github.com/user-attachments/assets/e819eba0-e495-422b-852e-57fd459b9b1e)
