@@ -4,7 +4,7 @@
 
 ### Joshua Watson  
 ---
-![image](https://github.com/user-attachments/assets/001d6f39-82e7-4733-bd67-513ce636857a)/
+![image](https://github.com/user-attachments/assets/001d6f39-82e7-4733-bd67-513ce636857a)
 - <jwats164@students.kennesaw.edu>
 - [LinkedIn](https://www.linkedin.com/in/joshua-watson-b32b4b237)
 <br></br>
