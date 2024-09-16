@@ -1,6 +1,7 @@
 # Budget Mobile App
 
 ## About The Team 
+![image](https://github.com/user-attachments/assets/74d9d8d6-7525-445a-97f9-f736fab34dc5)
 
 ## Overview
 
