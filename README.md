@@ -6,17 +6,17 @@
 ---
 ![image](https://github.com/user-attachments/assets/001d6f39-82e7-4733-bd67-513ce636857a)
 <br>
-Email: <jwats164@students.kennesaw.edu>
+<jwats164@students.kennesaw.edu>
 ### Alexus Glass
 ---
 ![image](https://github.com/user-attachments/assets/e819eba0-e495-422b-852e-57fd459b9b1e)
 <br>
-Email <mmarchm7@students.kennesaw.edu>
+<mmarchm7@students.kennesaw.edu>
 ### Matthew Marchman
 ---
 ![image](https://github.com/user-attachments/assets/5c7113fe-56fe-4c1a-9b4d-6a19e9ed7287)
 <br>
-Email <aglass24@students.kennesaw.edu>
+<aglass24@students.kennesaw.edu>
 
 
 
