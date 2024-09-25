@@ -1,6 +1,7 @@
 # Budget Mobile App
 
-Go to [about page](about.md)
+[About page](about.md)
+[Design](Design.md)
 
 ## Overview
 
