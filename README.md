@@ -1,5 +1,12 @@
 # Budget Mobile App
 
+.
++-- sub-directory
+|   +-- index.md    (title: Suby the Sub)
+|   +-- page2.md    (title: Suby the Second)
+|   +-- three.md    (title: Suby the Third)
++-- index.md        (title: Home)
+
 #### [About](about.md) 
 #### [Design](Design.md)
 
