@@ -1,5 +1,3 @@
-# Budget Mobile App
-
 
 #### [About](about.md) 
 #### [Design](Design.md)
