@@ -1,13 +1,5 @@
 # Budget Mobile App
 
-.table-of-contents{
-    display: block;
-    position: fixed;
-    right: 20px;
-    border: 1px solid gray;
-    height: 80%;
-    overflow-y: scroll;
-}
 
 #### [About](about.md) 
 #### [Design](Design.md)
