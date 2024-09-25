@@ -1,6 +1,6 @@
 # Budget Mobile App
 
-#### [About page](about.md) 
+#### [About](about.md) 
 #### [Design](Design.md)
 
 ## Overview
