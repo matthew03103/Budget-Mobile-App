@@ -1,11 +1,16 @@
 # Budget Mobile App
 
-.
-+-- sub-directory
-|   +-- index.md    (title: Suby the Sub)
-|   +-- page2.md    (title: Suby the Second)
-|   +-- three.md    (title: Suby the Third)
-+-- index.md        (title: Home)
+---
+title: "TEST"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    toc_depth: 3
+    number_sections: true
+    theme: lumen
+---
 
 #### [About](about.md) 
 #### [Design](Design.md)
