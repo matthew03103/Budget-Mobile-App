@@ -1,10 +1,5 @@
 # Budget Mobile App
 
----
-title: Home PAGE
-layout: template
-filename: README.md
---- 
 Go to [about page](about.md)
 
 ## Overview
