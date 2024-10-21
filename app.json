@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "login-screen",
+    "slug": "snack-e6f10cf7-e56d-49a0-a25e-5e488b4177cb",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "plugins": [
+         [
+           "@react-native-firebase/app",
+           {
+             "firebaseConfig": {
+              "apiKey": "AIzaSyB-Cy1jd5fPTXxZcjqtP4BgmVFr-EdDYko",
+              "authDomain": "budgetapp-ed5e4.firebaseapp.com",
+              "projectId": "budgetapp-ed5e4",
+              "storageBucket": "budgetapp-ed5e4.appspot.com",
+              "messagingSenderId": "52506892548",
+              "appId": "1:52506892548:web:bb282708aec850c3121851",
+              "measurementId": "G-MD8MWXVL0F"             }
+           }
+         ]
+       ],
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

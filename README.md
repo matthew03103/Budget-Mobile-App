@@ -1,26 +1,11 @@
-#### [Home](README.md)
-#### [About](about.md) 
-#### [Design](Design.md)
+# Sample Snack app
 
-## Overview
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-**The Budget Mobile App** is a mobile application designed as part of a senior project at Kennesaw State University. The app helps users manage their finances by tracking income, expenses, and providing budgeting tools to help users achieve their financial goals.
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
 
-## Features
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
-- **Expense Tracking**: Log daily expenses and categorize them.
-- **Income Tracking**: Record and manage different sources of income.
-- **Budgeting Tools**: Create and manage budgets for different categories.
-- **Financial Insights**: Visualize spending trends and financial summaries with charts and reports.
-- **Alerts and Notifications**: Set reminders for bill payments and budget limits.
-- **Data Sync**: Sync data from a bank on multiple devices for consistent tracking.
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
-## Technologies Used
-
-- **Mobile Platform**: Available on Android and iOS using a Cross-Platform development environment (React Native)
-- **Backend**: Banking API/Node.js/Express or other cloud-based services
-- **Database**: SQLite
-- **APIs**: Integration with financial data APIs (if applicable)
-
-
-
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
